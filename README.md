@@ -1,2 +1,2 @@
-# NaiveBayes
-Naive Bayes Demo
+# Naive Bayes Demos
+
